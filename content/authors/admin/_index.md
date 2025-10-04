@@ -37,7 +37,7 @@ profiles:
     url: 'mailto:shuvorezowan@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+    url: https://x.com/rezowan19480
   - icon: brands/github
     url: https://github.com/rezowan-ferdous
   - icon: brands/linkedin
@@ -72,7 +72,7 @@ education:
     summary: |
       CGPA: 3.48/4.0
 
-       Developed a deep learning-based student attendance system by creating a novel facial dataset and optimizing a model using MTCNN and VGG16 architectures. Integrated the final system into a real-world test environment via a custom API..
+       Developed a deep learning-based student attendance system by creating a novel facial dataset and optimizing a model using MTCNN and VGG16 architectures. Integrated the final system into a real-world test environment via a custom API.
   - area: BSc in Information and Communication Engineering
     institution: Bangladesh University of Professionals
     date_start: 2015-01-01
@@ -81,22 +81,30 @@ education:
       GPA: 3.16/4.0
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Research Assistant and Demonstrator (Teaching Assistant)
+    company_name: Robert Gordon University 
+    company_url: 'https://rgu.ac.uk'
     company_logo: ''
-    date_start: 2020-01-01
+    date_start: 2024-01-01
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+      Conducted advanced research in video understanding, designing novel deep learning frameworks action recognition and anticipation. Key contributions include engineering a TCN-Transformer for surgical action segmentation and a neuro-symbolic model for action anticipation. Currently pioneering the application of Large Language Models (LLMs) and Vision-Language Models (VLMs) to enhance visual reasoning for complex robotic tasks. Teaching/ instructing the postgraduate students. Conducted lab on Python programming, Data Science, NLP
+  - position: Research Assistant
+    company_name: Time Research and Innovation (TRI)
+    company_url: 'https://timerni.com/'
     company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2020-10-01
+    date_end: 2022-10-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Developed and deployed an end-to-end facial recognition system for smart attendance with MLOps. Conducted pivotal research in healthcare AI, analyzing chest X-ray data for COVID-19 detection. Played a key role in securing project funding by contributing to grant proposals. Authored multiple research papers and technical reports on Computer Vision, Deep Learning.
+  - position: Soware Developer
+    company_name: Beraten Software
+    company_url: 'https://www.beratensoftware.com/'
+    company_logo: ''
+    date_start: 2022-5-01
+    date_end: 2023-03-01
+    summary: |
+       Contributed in developing systems for tribal communities for health care services, the child welfare system, and the e-court for criminal case management.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -105,15 +113,15 @@ skills:
     items:
       - name: Python & PyTorch
         description: ''
-        percent: 95
+        percent: 85
         icon: code-bracket
       - name: Machine Learning
         description: ''
-        percent: 100
+        percent: 90
         icon: chart-bar
       - name: Cloud Computing (AWS/GCP)
         description: ''
-        percent: 85
+        percent: 50
         icon: cloud
   - name: Hobbies
     color: '#eeac02'

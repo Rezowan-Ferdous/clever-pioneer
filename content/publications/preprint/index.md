@@ -1,11 +1,12 @@
 ---
-title: "An example preprint / working paper"
+title: "Deep Learning and Attention-Based Methods for Human
+ Activity Recognition and Anticipation: A Comprehensive Review"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2024-04-07T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-11-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -16,13 +17,13 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In recent years, there has been a significant increase in research focused on Human Activity Analysis (HAA). This field has progressed from basic activity recognition tasks to addressing more challenging ones, such as predicting future human actions based on partially observed videos and even predicting actions before they happen. The evolution of HAA has been driven by recent advancements in attention-based models like Transformers, along with a wide range of applications from security surveillance to advanced monitoring systems, behaviour analysis, and more. A comprehensive review of HAA literature from 2017 to 2025, with a novel taxonomy emphasising activity recognition, prediction, and anticipation, is presented. We critically review and examine recognition methods from trimmed and untrimmed videos, context-aware and trajectory-based prediction, and short-term and long-term anticipation. Through a comprehensive analysis, we review and evaluate key aspects of this domain, including attention-based contextual comprehension, temporal dynamics modelling, and multi-model fusion methods. Furthermore, we critically examine and assess the public datasets utilised in driving this research forward, pinpointing limitations and primary challenges within this domain. Finally, the paper provides a summary of recent developments in HAA and suggests future directions, with the hope that it will serve as a valuable reference for researchers in the field.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Large vision–language models (VLMs) and multi modal large language models (LLMs) represent a paradigm shift. VLMs ground video un derstanding in natural language, enabling open-vocabulary recognition and anticipation. LLMs introduce a reasoning layer that can integrate temporal dynamics with symbolic and contextual knowledge, providing explainability and generalisation. Their synergy with world models holds promise for holistic video understanding across perception, reasoning, and prediction.
 
 tags:
-- Large Language Models
+- Computer Vision
 
 featured: true
 
@@ -53,7 +54,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Action Recognition involves classifying a human action based on its full execution. Action Prediction, often referred to as early action recognition, aims to forecast an action that is currently in progress from only partial observations. Action Anticipation is the task of predicting an action before it has even begun.'
   focal_point: ""
   preview_only: false
 

@@ -29,7 +29,7 @@ summary: Our proposed framework addresses these issues with hierarchical sliding
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 hugoblox:
   ids:

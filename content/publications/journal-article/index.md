@@ -1,15 +1,16 @@
 ---
-title: "An example journal article"
+title: "MSBATN: Multi-Stage Boundary-Aware Transformer Network for Action Segmentation in Untrimmed Surgical Videos"
 authors:
 - admin
-- Robert Ford
+- M S Mekala
+- Eyad Elyan
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2025-09-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-10-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -20,10 +21,11 @@ publication_types: ["article-journal"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Understanding actions within surgical workflows is critical for evaluating post-operative out comes and enhancing surgical training and efficiency. Capturing and analyzing long sequences of actions in surgical settings is challenging due to the inherent variability in individual surgeon approaches, which are shaped by their expertise and preferences. This variability complicates the identification and segmentation of distinct actions with ambiguous boundary start and end points. The traditional models, such as MS-TCN, which rely on large receptive fields, that causes over-segmentation, or under-segmentation, where distinct actions are incorrectly aligned. To address these challenges, we propose the Multi-Stage Boundary-Aware Transformer Network (MSBATN) with hierarchical sliding window attention to improve action segmentation. Our approach effectively manages the complexity of varying action durations and subtle transitions by accurately identifying start and end action boundaries in untrimmed surgical videos. MSBATN introduces a novel unified loss function that optimises action classification and boundary detection as interconnected tasks. Unlike conventional binary boundary detection methods, our innovative boundary weighing mechanism leverages contextual information to precisely identify action boundaries. Extensive experiments on three challenging surgical datasets demonstrate that MSBATN achieves state-of-the-art performance, with superior F1 scores at 25% and 50%
+ thresholds and competitive results across other metrics.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Our proposed framework addresses these issues with hierarchical sliding window attention for global-local context and includes a novel Boundary Aware Segmentation Loss to better recognise central and boundary points.
 
 tags:
 - Source Themes
@@ -54,7 +56,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'We found that selecting the right attention module can be difficult,and neighbouring frames often lead to ambiguous results, causing over- and under-segmentation in frame-wise segmentation. '
   focal_point: ""
   preview_only: false
 

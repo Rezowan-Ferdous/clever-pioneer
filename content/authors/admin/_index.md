@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Rezowan Shuvo
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Rezowan Hossain Ferdous
+last_name: Shuvo
 
 # Pronouns (optional)
 pronouns: he/him
@@ -23,62 +23,62 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Research Assistant, Demonstrator (Teaching Assistant)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
+  - name: Robert Gordon University
     url: https://ai.meta.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:shuvorezowan@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/rezowan-ferdous
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/ferdous-rezowan/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?hl=en&user=gECbOWsAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0002-4186-2817
 
 interests:
-  - Large Language Models
   - Computer Vision
+  - Large Language Models
+  - Visual-Language-Action Model
+  - World Model
   - Reinforcement Learning
   - AI Ethics
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area:  PhD Candidate, Computer Science (AI Focus)
+    institution: Robert Gordon University
+    date_start: 2023-03-01
+    date_end:  
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+      My current PhD research at Robert Gordon University focuses on the intricate fields of video understanding and action anticipation. My current work pioneering the use of LLMs, VLMs, and VLAs for robotic manipulation places me at the forefront of AI innovation.
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com/thesis.pdf'
+  - area: MSc in Information and Communication Engineering
+    institution:  Bangladesh University of Professionals
+    date_start: 2019-01-01
+    date_end: 2020-12-31
     summary: |
-      GPA: 4.0/4.0
+      CGPA: 3.48/4.0
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+       Developed a deep learning-based student attendance system by creating a novel facial dataset and optimizing a model using MTCNN and VGG16 architectures. Integrated the final system into a real-world test environment via a custom API..
+  - area: BSc in Information and Communication Engineering
+    institution: Bangladesh University of Professionals
+    date_start: 2015-01-01
+    date_end: 2018-12-31
     summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+      GPA: 3.16/4.0
 
 work:
   - position: Senior AI Research Scientist
@@ -135,35 +135,35 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Spanish
-    percent: 50
+  - name: Bangla
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
+  - title: School of Computing Eng. and Tech. PhD Studentship
     url: https://neurips.cc/
     date: '2022-12-01'
-    awarder: NeurIPS
+    awarder: Robert Gordon University
     icon: hero/trophy
     summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
+       A fuly funded PhD scholarship was awarded by School of computing, Robert Gordon University.
+  - title:  Employee of the Month
+    url: https://timerni.com/news/%22Team-Bangladesh%22-what-an-achievement!!!/MTc1OTU4Nzc2MV80Ng
+    date: '2022-06-15'
+    awarder: Timerni
     icon: hero/currency-dollar
     summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      $50,000 grant for research in Cultural development.
+  # - title: Outstanding PhD Thesis
+  #   url: https://www.stanford.edu/
+  #   date: '2019-06-30'
+  #   awarder: Stanford University
+  #   icon: hero/academic-cap
+  #   summary: |
+  #     Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Rezowan Shuvo is a AI Research Scientist at Robert Gordon University, where he leads groundbreaking work on large language models and multimodal systems. Rezowan is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.

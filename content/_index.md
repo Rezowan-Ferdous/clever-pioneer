@@ -34,9 +34,10 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I am a PhD candidate and Research Assistant at Robert Gordon University, specializing in computer vision, video understanding, and neuro-symbolic deep learning. 
+        My work focuses on advancing surgical action segmentation and anticipation through novel TCN-Transformer architectures and grammar-guided frameworks. I bring a strong background in machine learning, vision-language models, and healthcare AI, with publications in top-tier venues (Elsevier Q1, Springer Q1). 
+        Alongside research, I have teaching experience in Python, Data Science, and NLP, and industry experience in software development and MLOps deployment. 
+        My goal is to bridge cutting-edge AI with practical applications in robotics, healthcare, and human–machine interaction.
 
         Please reach out to collaborate 😃
     design:

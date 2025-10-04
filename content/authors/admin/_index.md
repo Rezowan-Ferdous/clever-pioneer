@@ -101,7 +101,7 @@ work:
     company_name: Beraten Software
     company_url: 'https://www.beratensoftware.com/'
     company_logo: ''
-    date_start: 2022-5-01
+    date_start: 2022-05-01
     date_end: 2023-03-01
     summary: |
        Contributed in developing systems for tribal communities for health care services, the child welfare system, and the e-court for criminal case management.
